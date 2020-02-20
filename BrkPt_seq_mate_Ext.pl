@@ -1,9 +1,9 @@
 #!/usr/bin/perl
 
 
-my $dir = "/mnt/EXT/Mills-scratch/reference/primate/orang/";
-my $events = "/mnt/EXT/Mills-data/gdayama/numts/primates/SRA_dinumt/analysis/brkPT/orang_Numt_final.txt";
-my $fout1 = "/mnt/EXT/Mills-data/gdayama/numts/primates/SRA_dinumt/analysis/brkPT/orang_Numt_flanks.cmds";
+my $dir = "working directory";
+my $events = "List of Numt events in bed format";
+my $fout1 = "output file name";
 
 
 open( fname1, $events )     or die("error opening file $events\n");
