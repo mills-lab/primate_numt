@@ -4,10 +4,10 @@ all scripts used for primate numts
 Insertion_flank_read_extract.pl is a perl script to extract flanking reads around the Numt insertion breakpoint and also its mate pair. 
 This can then be used for doing a de novo assembly of the Numt insertion.
 
---Usage: Insertion_flank_read_extract.pl <File with Numts and samples they are found in bedFormat.txt> <directory with BAM files>
+--Usage: Insertion_flank_read_extract.pl (File with Numts and samples they are found in bedFormat.txt) (directory with BAM files)
 
-Where you first enter the <name of the script> followed by the <input file in bed format> (the input file has chromosome breakpoint (for any insertion) start coordinate and end coordinate and all the samples the insertion was discovered in saperated by a comma(,)).
-Followed by the <directory path> where all the BAM files are stored. Please look at the example for input file <xyz.txt>
+Where you first enter the (name of the script) followed by the (input file in bed format) (the input file has chromosome breakpoint (for any insertion) start coordinate and end coordinate and all the samples the insertion was discovered in saperated by a comma(,)).
+Followed by the (directory path) where all the BAM files are stored. Please look at the example for input file <bonobo_polymorphic_numts.txt>
 
 Example of input file - bonobo_polymorphic_numts.txt
 
