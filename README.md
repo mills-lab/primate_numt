@@ -23,8 +23,8 @@ You can then run different parts of the script based on your requirements (comme
 >Example of input files  - 1) Reference_events.txt 2) Polymorphic_events.txt 3) Human_karyotype.txt
 
 ## Citation
-* Dayama, Gargi, Weichen Zhou, Javier Prado-Martinez, Tomas Marques-Bonet, and Ryan E. Mills. 2020. [Characterization of Nuclear Mitochondrial Insertions in the Whole Genomes of Primates](https://www.biorxiv.org/content/10.1101/2020.02.24.963504v2.abstract),
-bioRxiv. `https://doi.org/10.1101/2020.02.24.963504`
+* Dayama, Gargi, Weichen Zhou, Javier Prado-Martinez, Tomas Marques-Bonet, and Ryan E. Mills. 2020. [Characterization of Nuclear Mitochondrial Insertions in the Whole Genomes of Primates](https://academic.oup.com/nargab/article/2/4/lqaa089/5983420),
+NAR Genomics and Bioinformatics, 2020, lqaa089,. `https://doi.org/10.1093/nargab/lqaa089`
 
 * Dayama, Gargi, Sarah B Emery, Jeffrey M Kidd, and Ryan E. Mills. 2014. [The genomic landscape of polymorphic human nuclear mitochondrial insertions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4227756/pdf/gku1038.pdf),
 Nucleic Acids Research, 2014, gku1038, `https://doi.org/10.1093/nar/gku1038`
